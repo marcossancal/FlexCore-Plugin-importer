@@ -1,0 +1,12 @@
+{
+  "id":          "flexcore-data-importer",
+  "name":        "FlexCore Data Importer",
+  "version":     "1.0.0",
+  "description": "Importe dados de arquivos CSV para qualquer entidade. Detecta colunas automaticamente, permite mapear tipos de campo e importa os registros com um clique.",
+  "author":      "SanCal Produções",
+  "url":         "https://github.com/sancal/flexcore",
+  "requires":    "1.0.0",
+  "namespace":   "FlexCoreDataImporter",
+  "hooks":       [],
+  "settings":    []
+}
